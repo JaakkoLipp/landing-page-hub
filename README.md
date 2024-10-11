@@ -1,4 +1,4 @@
-# Central landing page / hub for all the projects
+# Central landing page / hub / launchpad for personal projects
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

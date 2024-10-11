@@ -1,0 +1,10 @@
+.topbar {
+  background-color: #4caf50; /* Green background */
+  color: white; /* White text color */
+  padding: 10px; /* Some padding around the content */
+  text-align: center; /* Center the text */
+  position: fixed; /* Fix it to the top of the screen */
+  width: 100%; /* Take up the full width of the screen */
+  top: 0; /* Position it at the very top */
+  z-index: 1; /* Make sure it appears above other content */
+}

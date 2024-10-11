@@ -1,4 +1,4 @@
-# React + Vite
+# Central landing page / hub for all the projects
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
